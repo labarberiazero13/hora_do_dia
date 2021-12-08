@@ -18,6 +18,10 @@ Microsoft Edge
 Link de preview 
 https://lucasgarcia561.github.io/hora_do_dia/
 
+Funcionalidade
+De acordo com a mudança do horário, a imagem também muda, 
+junto com a cor do background
+
 ⚠️ Atenção ⚠️
 
 Ainda não está responsivo
