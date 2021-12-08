@@ -15,6 +15,9 @@ Navegadores homologados:
 Google Chrome
 Microsoft Edge
 
+Link de preview 
+https://lucasgarcia561.github.io/hora_do_dia/
+
 ⚠️ Atenção ⚠️
 
 Ainda não está responsivo
